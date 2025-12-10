@@ -8,3 +8,5 @@ Short video: https://www.youtube.com/watch?v=bXo1xW0yVEU
 Autonomous flight integrated through ArduPilot software using MissionPlanner.
 More here: https://ardupilot.org/copter/index.html
 
+Infrared Heat Detection: coming soon!
+
