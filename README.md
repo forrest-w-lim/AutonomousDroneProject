@@ -10,3 +10,9 @@ More here: https://ardupilot.org/copter/index.html
 
 Infrared Heat Detection: coming soon!
 
+# TO-DO
+
+1. Collect/Find infrared image data
+2. Learn about different image detection AI models: CNN, ???
+3. Build and train model using data
+
